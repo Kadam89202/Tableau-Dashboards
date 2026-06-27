@@ -1,6 +1,6 @@
 # Tableau-Dashboards
 
-# 📊 Dashboard Project
+# 📊Tableau Dashboard Project
 
 ## Overview
 
